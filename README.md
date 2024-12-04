@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy deltacode  
+# 👋 ¡Hola! Soy DeltaCode  
 
 ### 🚀 Sobre mí  
 - 🌱 Actualmente aprendiendo: React y mejorando mis habilidades en desarrollo web.  
@@ -18,7 +18,7 @@
 ---
 
 ### 🤝 Conéctate conmigo  
-- **GitHub**: [deltacode](https://github.com/Delta2205)  
+- **GitHub**: [DeltaCode](https://github.com/Delta2205)  
 - **Email**: [pvasquez2206@gmail.com]  
 
 ---
