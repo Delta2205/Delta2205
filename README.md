@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy deltacode  
 
-<!--
-**Delta2205/Delta2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí  
+- 🌱 Actualmente aprendiendo: React y mejorando mis habilidades en desarrollo web.  
+- 💻 Intereses: Desarrollo web, Desarrollo Movil con React.  
+- 🛠️ Habilidades:  
+  - **Frontend**: HTML, CSS, JavaScript  
+  - **Frameworks**: React (novato)  
+- 🎯 Objetivo: Convertirme en un desarrollador web experto y aprender más sobre tecnologías modernas.  
+- 🌍 Idiomas: Español, Ingles 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Proyectos destacados  
+- [**Proyecto 1**: Todo App hecha con react, aplicación básica.]  
+- [**Proyecto 2**: PasswordGenerator, generador de contraseñas basico hecho en React.]  
+
+---
+
+### 🤝 Conéctate conmigo  
+- **GitHub**: [deltacode](https://github.com/Delta2205)  
+- **Email**: [pvasquez2206@gmail.com]  
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
