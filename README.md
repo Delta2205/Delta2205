@@ -18,7 +18,7 @@
 ---
 
 ### 🤝 Conéctate conmigo  
-- **GitHub**: [DeltaCode](https://github.com/Delta2205)  
+- **GitHub**: [Zed](https://github.com/ZehdWay)  
 - **Email**: [pvasquez2206@gmail.com]  
 
 ---
