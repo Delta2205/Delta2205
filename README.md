@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy DeltaCode  
+# 👋 ¡Hola! Soy Zed  
 
 ### 🚀 Sobre mí  
 - 🌱 Actualmente aprendiendo: React y mejorando mis habilidades en desarrollo web.  
