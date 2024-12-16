@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Zed  
+# 👋 ¡Hola! Soy Delta  
 
 ### 🚀 Sobre mí  
 - 🌱 Actualmente aprendiendo: React y mejorando mis habilidades en desarrollo web.  
@@ -18,7 +18,7 @@
 ---
 
 ### 🤝 Conéctate conmigo  
-- **GitHub**: [Zed](https://github.com/ZehdWay)  
+- **GitHub**: [Delta](https://github.com/ZehdWay)  
 - **Email**: [pvasquez2206@gmail.com]  
 
 ---
