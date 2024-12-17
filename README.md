@@ -18,7 +18,7 @@
 ---
 
 ### 🤝 Conéctate conmigo  
-- **GitHub**: [Zylohw](https://github.com/Zylohw)  
+- **GitHub**: [Zylo](https://github.com/Zylohw)  
 - **Email**: [pvasquez2206@gmail.com]  
 
 ---
