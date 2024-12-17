@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Delta  
+# 👋 ¡Hola! Soy Zylo  
 
 ### 🚀 Sobre mí  
 - 🌱 Actualmente aprendiendo: React y mejorando mis habilidades en desarrollo web.  
@@ -18,7 +18,7 @@
 ---
 
 ### 🤝 Conéctate conmigo  
-- **GitHub**: [Delta](https://github.com/ZehdWay)  
+- **GitHub**: [Zylohw](https://github.com/Zylohw)  
 - **Email**: [pvasquez2206@gmail.com]  
 
 ---
